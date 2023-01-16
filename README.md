@@ -14,4 +14,4 @@ We encourage you to explore our project and learn more about the various tools a
 
 Check out our website [here](http://anshie.pythonanywhere.com/) for more information and join us on this journey to online anonymity today!🕵🕵
 
-***If you would like more details about using the website template, check out our [wiki](https://github.com/EncryptedTux/EncryptedTux/wiki)!***
+***If you would like more details about using the website template, check out our [wiki](https://github.com/EncryptedTux/EncryptedTux/wiki.md)!***
