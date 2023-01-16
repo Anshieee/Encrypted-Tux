@@ -1,3 +1,11 @@
+<div align="center">
+  <h1> Encrypted Tux </h1>
+  <img width="240" src="https://raw.githubusercontent.com/Anshieee/Encrypted-Tux/main/assets/encrypted-tux-logo.png" alt="Encrypted Tux Logo">
+
+</div>
+
+
+--- 
 🐧 Welcome to the Encrypted Tux project, a Computer Science Python project created by Ansh Chauhan of Class 11 studying in SRDAV Public School.
 
 Our project, started on January 1st, 2022, is all about helping Linux users achieve complete anonymity and privacy online. We believe that everyone has the right to privacy and security online, and we're here to help you achieve that with Linux. Our project provides a comprehensive guide on how to use various tools and techniques to encrypt your internet connection, secure your personal information, and stay lowkey online.🔒
