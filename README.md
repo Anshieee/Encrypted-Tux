@@ -12,6 +12,6 @@ We also plan to create a community of users who can share their own experiences 
 
 We encourage you to explore our project and learn more about the various tools and techniques available for achieving complete anonymity and privacy online. Join us as we navigate the ever-changing landscape of privacy and security on Linux.
 
-Check out our website [here](http://anshie.pythonanywhere.com/) for more information and join us on this journey to online anonymity today!🕵🕵
+### Check out our website [here](http://anshie.pythonanywhere.com/) for more information and join us on this journey to online anonymity today!🕵🕵
 
-***If you would like more details about using the website template, check out our [wiki](https://github.com/EncryptedTux/EncryptedTux/wiki.md)!***
+***If you would like more details about using the website template, check out our [wiki](https://github.com/anshieee/EncryptedTux/wiki.md)!***
